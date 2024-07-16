@@ -10,6 +10,8 @@ function ReactFeatures() {
             <p>&bull; Component-Based Architecture</p>
             <p>&bull; Virtual DOM (Document Object Model)</p>
             <p>&bull; Props</p>
+            <p>&bull; useState</p>
+            <p>&bull; useEffect</p>
         </div>
     </div>
   )

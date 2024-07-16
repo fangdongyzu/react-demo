@@ -4,7 +4,7 @@ function ComponentBased() {
   return (
     <div style={{display:'flex', alignItems:'center', justifyContent:'space-around'}}>
         <div  className='image-container'>
-            <img style={{height:'300px', width:'300px'}} src='/src/images/html-layout.png'></img>
+            <img style={{height:'300px', width:'300px'}} src='/images/html-layout.png'></img>
         </div>
         <div className='content-container'>
             <p>Vanilla Webpage vs React Webpage</p>
